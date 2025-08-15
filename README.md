@@ -13,14 +13,6 @@ This repository contains my data visualization projects, where I transform raw d
 
 ---
 
-## 📂 Projects
-
-### 1️⃣ HR Attrition Analytics Dashboard
-**Description:** Analyzes employee attrition patterns across age groups, salary bands, job roles, and education fields.
-
-
----
-
 ## 📬 Contact
 - **Email:** vinityadav2902yourname@email.com  
 - **LinkedIn:** [www.linkedin.com/in/vinit-yadav-423236366](https://www.linkedin.com/in/vinit-yadav-423236366)
