@@ -1,4 +1,4 @@
-# HR Analytics Dashboard Description
+# HR Analytics Dashboard 
 
 ## 📌 Project Overview
 The **HR Attrition Analytics Dashboard** is designed to help organizations understand, monitor, and address employee turnover.  
